@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4C23DAC3-F78D-4B48-A3EF-8739BC456BB1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D4366F4D-115F-4085-BC16-2BB656BF1F6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoApp/Network/DataPersister.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "writeData(locations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43224F89-2283-4C85-94E3-CCBD91EF48B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoApp/ViewModel/LocationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "getLocationObjects(placeArray:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43224F89-2283-4C85-94E3-CCBD91EF48B8 - 6362430ce05f9e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PhotoApp.Places) -&gt; PhotoApp.Location in PhotoApp.LocationViewModel.getLocationObjects(placeArray: Swift.Array&lt;PhotoApp.Places&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;PhotoApp.Location&gt;&gt;"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/1282824/Desktop/PhotoApp/PhotoApp/ViewModel/LocationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "43224F89-2283-4C85-94E3-CCBD91EF48B8 - 6362430ce05f9e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PhotoApp.Places) -&gt; PhotoApp.Location in PhotoApp.LocationViewModel.getLocationObjects(placeArray: Swift.Array&lt;PhotoApp.Places&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;PhotoApp.Location&gt;&gt;"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/1282824/Desktop/PhotoApp/PhotoApp/ViewModel/LocationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "43224F89-2283-4C85-94E3-CCBD91EF48B8 - 6362430ce05f9e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PhotoApp.Places) -&gt; PhotoApp.Location in PhotoApp.LocationViewModel.getLocationObjects(placeArray: Swift.Array&lt;PhotoApp.Places&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;PhotoApp.Location&gt;&gt;"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/1282824/Desktop/PhotoApp/PhotoApp/ViewModel/LocationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "43224F89-2283-4C85-94E3-CCBD91EF48B8 - 6362430ce05f9e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (PhotoApp.Places) -&gt; PhotoApp.Location in PhotoApp.LocationViewModel.getLocationObjects(placeArray: Swift.Array&lt;PhotoApp.Places&gt;) -&gt; Swift.Optional&lt;Swift.Array&lt;PhotoApp.Location&gt;&gt;"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/1282824/Desktop/PhotoApp/PhotoApp/ViewModel/LocationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7049E10A-D9CC-4806-96CA-2989F90FB42B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoApp/ViewModel/LocationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getLocationData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
